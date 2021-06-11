@@ -9,7 +9,7 @@
     "start": "nuxt start"
   },
   "dependencies": {
-    "@nuxt/image": "github:abhinavr4/image#1d875e0",
+    "@nuxt/image": "github:abhinavr4/image#5b5a9d0",
     "nuxt": "^2.15.6"
   }
 }
