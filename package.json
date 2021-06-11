@@ -1,0 +1,15 @@
+{
+  "name": "imagekit-nuxtjs-examples",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxt/image": "github:abhinavr4/image#1d875e0",
+    "nuxt": "^2.15.6"
+  }
+}
